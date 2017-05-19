@@ -1,0 +1,79 @@
+.bg-home,
+.bg-home nav:before {
+    background-color: #003e6f;
+    color: #fff;
+}
+
+.bg-home *:not(i):not(nav):after,
+.bg-home *:not(i):not(nav):before,
+.bg-home .btn:hover,
+.bg-home .btn-inverse{
+    background-color: #fff;
+    border-color: #fff;
+    color: #003e6f;
+}
+
+/* Subscribe */
+
+.bg-subscribe,
+.bg-subscribe nav:before {
+    background-color: #992d32;
+    color: #ffffff;
+}
+
+.bg-subscribe *:not(i):not(nav):after,
+.bg-subscribe *:not(i):not(nav):before,
+.bg-subscribe .btn:hover,
+.bg-subscribe .btn-inverse {
+    background-color: #ffffff;
+    border-color: #ffffff;
+    color: #992d32;
+}
+
+/* About */
+
+.bg-about,
+.bg-about nav:before {
+    background-color: #50854f;
+    color: #ffffff;
+}
+
+.bg-about *:not(i):not(nav):after,
+.bg-about *:not(i):not(nav):before {
+    background-color: #ffffff;
+}
+
+/* Contact */
+
+.bg-contact,
+.bg-contact nav:before {
+    background-color: #dedede;
+    color: #252525;
+}
+
+.bg-contact *:not(i):not(nav):after,
+.bg-contact *:not(i):not(nav):before,
+.bg-contact .btn:hover,
+.bg-contact .btn-inverse {
+    border-color: #252525;
+    background-color: #252525;
+    color: #dedede;
+}
+
+.bg-contact input,
+.bg-contact textarea {
+    border-color: #252525;
+}
+
+/* Services */
+
+.bg-services,
+.bg-services nav:before {
+    background-color: #786BAC;
+    color: #ffffff;
+}
+
+.bg-services *:not(i):not(nav):after,
+.bg-services *:not(i):not(nav):before {
+    background-color: #ffffff;
+}
